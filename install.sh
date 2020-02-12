@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INSTALL_DIR=~/local-vim-plugins
+INSTALL_DIR=~/.cache/vimfiles/repos/github.com/rbr8791/sbtoolkit
 SOURCE_DIR=/d/projects/vim-plugins/sbtoolkit-vim
 
 echo "Creating local vim plugins directory"

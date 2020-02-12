@@ -2,7 +2,7 @@
 
 
 function! s:echotest()
-  echomsg "HELLO WORLD!"
+  s:echomsg "HELLO WORLD!"
 endfunction
 
 " nnoremap <SPACE> <Nop>
