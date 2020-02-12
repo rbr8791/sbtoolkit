@@ -1,7 +1,7 @@
 
 
 
-function! echotest()
+function! s:echotest()
   echomsg "HELLO WORLD!"
 endfunction
 
