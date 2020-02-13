@@ -8,6 +8,7 @@ mkdir -p ~/local-vim-plugins
 
 echo "Installing plugin..."
 cp -rf $SOURCE_DIR $INSTALL_DIR
+cp -rf plugin/sbtoolkit-keys.vim /home/zerod/.cache/vimfiles/.cache/vimrc/.dein/plugin/sbtoolkit-keys.vim
 
 echo "Done"
 
